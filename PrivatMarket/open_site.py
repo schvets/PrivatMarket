@@ -16,5 +16,7 @@ print ("Opened site " + driver.current_url )
 # Close the browser!
 driver.quit()
 
-
-test
+driver.get('https://privatmarket.ua/')
+driver.get('https://privatmarket.ua/')
+driver.get('https://privatmarket.ua/')
+driver.get('https://privatmarket.ua/')
