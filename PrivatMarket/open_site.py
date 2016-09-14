@@ -15,3 +15,6 @@ assert "ПриватМаркет – Площадка для торговли т
 print ("Opened site " + driver.current_url )
 # Close the browser!
 driver.quit()
+
+
+test
