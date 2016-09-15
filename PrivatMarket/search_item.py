@@ -15,6 +15,7 @@ text_area.send_keys("бронежилет")
 
 # Searsh by item name
 search_button = driver.find_element_by_xpath('/html/body/div[1]/div/header/div[2]/div/div/form/div/div/div[1]/button')
+logotip = driver.find_element_by_xpath('/html/body/div[1]/footer/div/div/div[1]/div/a/img')
 search_button.click()
 
 # Make this an actual test.
